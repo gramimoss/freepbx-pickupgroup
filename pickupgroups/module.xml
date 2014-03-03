@@ -1,0 +1,26 @@
+<module>
+	<rawname>pickupgroups</rawname>
+	<name>Pickup Groups</name>
+	<version>0.1</version>
+	<candisable>yes</candisable>
+	<canuninstall>yes</canuninstall>
+	<changelog>
+		*0.1* Original Release (beta)
+	</changelog>
+	<description>
+		provides Pickup groups configuration
+	</description>
+	<attention>
+		
+	</attention>
+	<info>http://github.com/grami.moss/</info>
+	<menuitems>
+                <pickupgroups>Pickup Groups</pickupgroups>
+	</menuitems>
+	<depends>
+		<module>core</module>
+		<version>ge2.2</version>
+    </depends>
+	<category>Applications</category>
+</module>
+
